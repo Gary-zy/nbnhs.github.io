@@ -1,0 +1,101 @@
+.dun1 img{
+	width: 100%;
+}
+.img_width{
+	width: 100%;
+}
+.dun4{
+	background: url(../img/school_page_5_bg.0481a0b8.png) no-repeat;
+	width: 100%;
+	padding-top: 40px;
+}
+.dun4 img{
+	margin-bottom: 25px;
+}
+.lunbo123 {
+	
+	
+}
+.lunbo123 .rtx ul{
+	width: 520px;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
+.lunbo123 .rtx ul li{
+	display: block;
+	text-align: center;	
+	float: left;
+	margin: 0 auto;
+	
+}
+.lunbo123 .rtx ul li img{
+	display: block;
+	width: 150px;
+	margin-bottom: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.lunbo123 .rtx ul li img:hover{
+	border-bottom: 5px solid #edeff3;
+	margin-bottom: 20px;
+}
+.grsj{
+	margin-bottom: 50px;
+}
+	
+.grsj1{
+	width: 70%;
+	height: 300px;
+	background: url(../img/expert_dialog.61559c38.png) no-repeat;
+	background-size: 100% 100%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 40px;
+} 
+.grsj h2{
+	font-size: 28px;
+	font-weight: 700;
+	color:
+	#3a4e73;
+	text-align: center;
+	margin-top: 20px;
+}
+.grsj p{
+	font-size: 17px;
+	font-weight: 400;
+	color:
+	    #3a4e73;
+	    margin-top: 16px;
+	    text-align: center;
+	}
+.grsj span{
+		font-size: 15px;
+		font-weight: 400;
+		color:
+		#94a1b8;
+		line-height: 27px;
+		margin-top: 27px;
+		text-align: center;
+	}
+.grsj2{
+		width: 70%;
+		height: 300px;
+		background: url(../img/expert_dialog.61559c38.png) no-repeat;
+		background-size: 100% 100%;
+		margin: 0 auto;
+		text-align: center;
+		padding: 40px;
+		display: none;
+}
+.grsj3{
+			width: 70%;
+			height: 300px;
+			background: url(../img/expert_dialog.61559c38.png) no-repeat;
+			background-size: 100% 100%;
+			margin: 0 auto;
+			text-align: center;
+			padding: 40px;
+			display: none;
+}

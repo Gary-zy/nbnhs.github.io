@@ -1,0 +1,150 @@
+.bandeo{
+	width: 100%;
+}
+.bandeo img {
+	width: 100%;
+}
+.yello{
+	width: 100%;
+	height: 70px;
+	background: #ffda22;
+	border-top: 3px solid #0064ff;
+	position: relative;
+}
+.bandeo .yello img {
+	width: 150px;
+	position: absolute;
+	right: 5%;
+	bottom: 55px;
+} 
+.zj1_img img {
+	width: 100%;
+	margin: 50px  0;
+}
+.zj2_img{
+	text-align: center;
+}
+.zj2_img img{
+	width: 20%;
+	margin: 50px 0;
+	
+}
+.qieh{
+	text-align: center;
+	
+}
+.qieh .uls{
+	box-sizing: border-box;
+	text-align: center;
+}
+.qieh .uls ul{
+	overflow: hidden;
+	text-align: center;
+	margin: 0 auto;
+	width: 600px;
+}
+ .uls  li{
+	display: block;
+	cursor: pointer;
+	padding: 10px 30px;
+	float: left;
+	border: 1px solid #0082ff;
+	font-size: 19px;
+	text-align: center;
+	font-weight: 700;
+	border-radius: 50px;
+	color: #0082ff;
+	white-space:nowrap;
+	margin: 0 10px;
+}
+.qieh .uls ul li:hover{
+	background:#0082ff;
+	color:#fff;
+	
+}
+.sivs{
+	width: 900px;
+	height: 580px;
+	padding: 40px 34px 28px;
+	background:
+	#fff;
+	box-shadow: 0 3px 27px 0
+	rgba(58,78,115,.12);
+	border-radius: 20px;
+	margin-bottom: 50px;
+	
+	margin: 0 auto;
+	
+	margin-top: 100px;
+}
+
+.sivs h3{
+	font-size: 25px;
+	font-weight: 700;
+	color:
+	#42567c;
+	text-align: left;
+}
+.sivs p{
+	margin-top: 15px;
+	margin-bottom: 27px;
+	font-size: 15px;
+	font-weight: 400;
+	color:#4c6288;
+	line-height: 24px;
+	text-align: left;
+}
+.sivs a img{
+	width: 400px;
+	height: 224px;
+	margin-top: 0;
+	margin-left: 8px;
+}
+.sivs span i img{
+	width: 20px;
+}
+.naniu .ce123{
+	font-size: 16px;
+	text-align: center;
+	font-weight: 700;
+	color:#fff;
+	padding-top: 10px;
+}
+.uls .dianji{
+	z-index: 500;
+	background:#0082ff;
+	color:#fff;
+	
+	}
+}
+.divs2{
+	display: none;
+}
+.divs3{
+	display: none;
+}
+.divs4{
+	display: none;
+}
+.divs5{
+	display: none;
+}
+.kecheng h4 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: 500;
+	color:
+	    #94a1b8;
+	    line-height: 42px;
+	    margin-top: 45px;
+	}
+.ces1234{
+	width: 100%;
+	background-image: url(../img/family_page_4_bg.476c61fa.png);
+		
+}
+.ces1234 img{
+	width: 100%;
+	margin-top:50px ;
+	padding-bottom: 25px;
+}

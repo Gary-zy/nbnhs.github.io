@@ -1,0 +1,35 @@
+.chanpin{
+	width: 100%;
+	height: 500px;	
+}
+
+.xz_an{
+	height: 50px;
+	width: 100%;
+	background: #fe9442;
+}
+.xz_an ul {
+	margin: 0 auto;
+	height: 50px;
+	width: 50%;
+}
+.xz_an ul li{
+	text-decoration: none;
+	padding:1% 3%;
+ 	background: hsla(0,0%,100%,.1) ;
+	border: 1px solid #fff;
+	font-size: 13px;
+	font-weight: 400;
+	border-radius: 20px;
+	color: white;
+	margin-top: 1%;
+	cursor: pointer;
+	float: left;
+	
+}
+
+}
+.xz_an li:hover{
+	background: hsla(0,0%,100%,.24);
+	
+}
